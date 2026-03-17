@@ -1,5 +1,4 @@
 // Problem: LeetCode 27 - Remove Element
-// Approach: Two Pointer Technique 
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 class Solution {
