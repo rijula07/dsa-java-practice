@@ -1,5 +1,4 @@
 // Problem: LeetCode 26 - Remove Duplicates from Sorted Array
-// Approach: Two Pointer Technique
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 class Solution {
